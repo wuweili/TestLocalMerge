@@ -24,6 +24,11 @@
 }
 
 -(void)initData{
+    NSLog(@"hhhhhhhhhhhhh");
+}
+
+-(void)initSBLaoWang
+{
     
 }
 
