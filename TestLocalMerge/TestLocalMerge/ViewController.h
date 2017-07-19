@@ -10,6 +10,9 @@
 
 @interface ViewController : UIViewController
 
+@property(nonatomic,strong)NSString *testWWL;
+
+@property(nonatomic,strong)NSString *localString;
 
 @end
 
