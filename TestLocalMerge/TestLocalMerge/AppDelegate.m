@@ -29,7 +29,7 @@
 
 -(void)initSBLaoWang
 {
-    
+    NSLog(@"SBSBSBSBSBSBhhhhhhhhhhhhh");
 }
 
 
