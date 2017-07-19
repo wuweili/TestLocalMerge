@@ -20,7 +20,18 @@
     
     //test wwl
 
+    NSLog(@"test zmm");
+    
     return YES;
+}
+
+-(void)initData{
+    NSLog(@"hhhhhhhhhhhhh");
+}
+
+-(void)initSBLaoWang
+{
+    
 }
 
 
