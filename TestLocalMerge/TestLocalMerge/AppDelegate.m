@@ -31,7 +31,7 @@
 
 -(void)initSBLaoWang
 {
-    
+    NSLog(@"SBSBSBSBSBSBhhhhhhhhhhhhh");
 }
 
 -(void)initUI{
