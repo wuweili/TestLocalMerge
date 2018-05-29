@@ -1,2 +1,4 @@
 # TestLocalMerge
 TestLocalMerge
+
+TestLocalMerge -wwl
